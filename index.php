@@ -202,7 +202,7 @@
             </div>
  
             <div class="column column--50--25">
-                <img src="https://img.menudigitalqr.app/p/2749391621783330928.jpg" alt="" class="today-special__img">
+                <img src="https://img.freepik.com/foto-gratis/tabla-madera-carne-cocida_23-2148599852.jpg?ga=GA1.1.1447510751.1723810345&semt=ais_hybrid" alt="" class="today-special__img">
                 <div class="today-special__title">Solomillo de cerdo</div>
                 <div class="today-special__price">28€</div>
             </div>
